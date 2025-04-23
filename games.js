@@ -92,7 +92,7 @@ const games = ` [
 `
 const template = `
 {
-"name": "",
+"name": "",A
 "description": "",
 "pledged": 0,
 "goal": 0,
