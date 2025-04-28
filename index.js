@@ -89,7 +89,7 @@ return game.pledged < game.goal ? count + 1 : count;
 },0);
 
 const newParagraph = document.createElement("p")
-newParagraph.textContent = `A total of $${totalRaised.toLocaleString()} has been raised for ${totalGames} game${totalGames === 1 ? '' : 's'}!`;
+newParagraph.textContent = `So far, $${totalRaised.toLocaleString()} has been raised for ${totalGames} game${totalGames === 1 ? '' : 's'}. Currently, ${unfundedSum} game${unfundedSum === 1 ? '' : 's'} remain unfunded. You can help support your favorites today in only a few minutes!`;
 descriptionContainer.appendChild(newParagraph)
 
 
