@@ -27,7 +27,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/KrystaAlex/FundlyGif/blob/main/Web%20102%20Prework.gif?raw=true' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+[<img src='https://github.com/KrystaAlex/FundlyGif/blob/main/Web%20102%20Prework.gif?raw=true' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+](https://github.com/KrystaAlex/FundlyGif/blob/main/Web%20102%20Prework.gif)
 
 GIF created with LiceCap
 
