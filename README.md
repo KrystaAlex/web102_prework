@@ -4,9 +4,8 @@ Submitted by: Krystian Rolle
 
 Empowering Gamers Through Community
 
-At Fundly, we believe in the power of community to bring creative games to life. Our partner Sea Monster Funding connects passionate game developers with enthusiastic backers, 
-helping fund the next generation of digital experiences. Whether you're launching your first indie board game or expanding a well-loved classic, 
-Fundly provides the tools and visibility to turn ideas into reality. With our commited backers and pledges, we're proud to support innovation, creativity, and fun.
+At Fundly, we believe in the power of community to bring creative games to life. Through our Fundly website, Sea Monster Funding connects passionate game developers with enthusiastic backers, 
+helping fund the next generation of digital experiences. Whether you're launching your first indie board game or expanding a well-loved classic, Fundly provides the tools and visibility to turn ideas into reality. With our commited backers and pledges, we're proud to support innovation, creativity, and fun.
 
 Time spent: 6 hours spent in total
 
