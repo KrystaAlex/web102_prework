@@ -2,7 +2,11 @@
 
 Submitted by: Krystian Rolle
 
-Fundly is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Empowering Gamers Through Community
+
+At Fundly, we believe in the power of community to bring creative games to life. Our partner Sea Monster Funding connects passionate game developers with enthusiastic backers, 
+helping fund the next generation of digital experiences. Whether you're launching your first indie board game or expanding a well-loved classic, 
+Fundly provides the tools and visibility to turn ideas into reality. With our commited backers and pledges, we're proud to support innovation, creativity, and fun.
 
 Time spent: 6 hours spent in total
 
